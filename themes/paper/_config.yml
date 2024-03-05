@@ -18,7 +18,7 @@ stylesheets_preload:
 # scripts loaded in the end of the body
 scripts_defer:
 - https://cdn.bootcss.com/highlight.js/9.6.0/highlight.min.js # for highlight
-- /js/paper.js # for basic script
+- ./js/paper.js # for basic script
 
 
 social:
