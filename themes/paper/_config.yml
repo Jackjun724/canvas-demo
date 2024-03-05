@@ -4,8 +4,8 @@ language: zh
 
 # main menu navigation
 menu:
-  Home: /
-  About: /about/me
+  Home: /blog/
+  About: /blog/about/me
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -18,14 +18,14 @@ stylesheets_preload:
 # scripts loaded in the end of the body
 scripts_defer:
 - https://cdn.bootcss.com/highlight.js/9.6.0/highlight.min.js # for highlight
-- /js/paper.js # for basic script
+- /blog/js/paper.js # for basic script
 
 
 social:
   Github: https://github.com/jackjun724
   知乎: https://www.zhihu.com/people/wang-jun-jie-20-30
   Mail: mailto:jackjun0724@gmail.com
-  AboutMe: /about/me
+  AboutMe: /blog/about/me
   # and more, you can add other link by the same way
 
 # Uncomment to disable sidebar
